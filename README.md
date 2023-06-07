@@ -4,7 +4,7 @@ This is a WordPress snippet that creates a shortcode to display a preview of a p
 
 ## Usage
 
-1. Copy the code from the `post-preview-shortcode.php` file.
+1. Copy the code from the `post-preview-shortcode-snippet.php` file.
 
 2. In your WordPress theme's `functions.php` file or in a custom plugin, paste the code.
 
